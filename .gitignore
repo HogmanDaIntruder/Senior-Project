@@ -3,6 +3,6 @@
 *.json
 __pycache__/
 .venv/
-/.vs
-/News API grabber + summarizer.pyproj
-/News API grabber + summarizer.slnx
+*.vs
+*.pyproj
+*.slnx
